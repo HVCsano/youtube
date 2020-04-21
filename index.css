@@ -1,0 +1,49 @@
+/* CSS Document */
+
+
+body {
+	font-family: "Oxanium";
+}
+#title {
+	background: #11F500;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	font-size: 20px;
+	box-shadow: #000 2px 2px 20px;
+
+}
+
+#all {
+    margin: auto;
+	width: 85%;
+}
+
+#Oldalak {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	float: left;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#Oldalak li {
+	float: ;
+	border: 1px solid #000;
+	margin-bottom: 20px;
+	background: #666;
+    text-align: center;
+}
+
+#Oldalak li a {
+	padding: 10px 15px;
+	display: block;
+	text-decoration: none;
+	color: #000;
+}
+
+#Oldalak li a:hover {
+	background: #000;
+	color:#fff;
+}
